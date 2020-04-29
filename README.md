@@ -1,8 +1,8 @@
 https://t.me/MyCityInfoBot/start
 
-bot.name=MyCityInfoBot
+Имя бота: MyCityInfoBot
 
-bot.token=1083463504:AAGdUedyPLghlLd3uvsXyVFC3R734bRjfQ0
+Токен бота: 1083463504:AAGdUedyPLghlLd3uvsXyVFC3R734bRjfQ0
 
 Используется база H2,при запуске в папке пользователя создастся файл city_bot.mv.db
 
